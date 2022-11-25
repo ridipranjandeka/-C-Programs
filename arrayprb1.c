@@ -18,7 +18,7 @@ int main() {
 
   // printing elements of an array
   for(int i = 0; i < 5; ++i) {
-     printf("%d\n", values[i]);
+     printf("%d\n", values[i]);               
   }
   return 0;
 }
